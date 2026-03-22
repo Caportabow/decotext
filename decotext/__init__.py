@@ -1,0 +1,1 @@
+from .decotext import DecoText
